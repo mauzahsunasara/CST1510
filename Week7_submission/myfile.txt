@@ -1,0 +1,5 @@
+  Survey_2026 , rating=4 , age=23  
+customer_101, RATING=5, AGE=21
+  feedback_2025,rating = 3, Age=19 
+Survey_2024 , RATING = 2 , age = 25
+  Student_Data , rating=  4, AGE=22  
